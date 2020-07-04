@@ -1,6 +1,6 @@
 Install BLS signatures.
 
-git vlone https://github.com/allforminers/bls.git
+sudo git clone https://github.com/allforminers/bls.git
 
 cd bls
 
