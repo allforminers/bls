@@ -1,8 +1,8 @@
 Install BLS signatures.
 
-cd ~/
+sudo git clone https://github.com/allforminers/bls.git
 
-wget https://github.com/codablock/bls-signatures/archive/v20181101.zip
+cd bls
 
 unzip 20181101.zip
 
