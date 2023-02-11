@@ -10,6 +10,8 @@ cd bls-signatures-20181101
 
 cmake .
 
+make -j8
+
 sudo make install
 
 
